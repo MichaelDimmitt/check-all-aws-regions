@@ -1,11 +1,12 @@
+## Just want to get a list of all my AWS resources
+https://forums.aws.amazon.com/thread.jspa?threadID=235322
+
 ## tldr:
-this looks more built out but possibly more brittle<br/>
+This looks more built out, but possibly more brittle:<br/>
 https://github.com/devops-israel/aws-inventory
 
-the script I wrote is very simple.
+The script I wrote is very simple.
 
-## just want to get a list of all my AWS resources
-https://forums.aws.amazon.com/thread.jspa?threadID=235322
 ## check-all-aws-regions
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html#concepts-available-regions
 
