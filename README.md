@@ -1,3 +1,9 @@
+## tldr:
+this looks more built out but possibly more brittle<br/>
+https://github.com/devops-israel/aws-inventory
+
+the script I wrote is very simple.
+
 ## just want to get a list of all my AWS resources
 https://forums.aws.amazon.com/thread.jspa?threadID=235322
 ## check-all-aws-regions
