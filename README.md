@@ -5,9 +5,10 @@ https://forums.aws.amazon.com/thread.jspa?threadID=235322
 This looks more built out, but possibly more brittle:<br/>
 https://github.com/devops-israel/aws-inventory
 
-The script I wrote is very simple.
+The script I wrote is very simple is in this repo and can be found here:
+https://github.com/MichaelDimmitt/check-all-aws-regions/blob/main/regions.sh
 
-## check-all-aws-regions
+## Check-all-aws-regions
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html#concepts-available-regions
 
 ## Setup: 
