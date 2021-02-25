@@ -31,3 +31,14 @@ aws configure # paste id and secret here.
 ```bash
 bash regions.sh
 ```
+
+## Disclaimer: 
+In the amazon docs forum that spawned this repo `thscheer` mentioned:
+```
+The problem is, that neither
+aws resourcegroupstaggingapi get-resources --region
+nor
+aws configservice list-discovered-resources ---resource-type ##
+will list all resources, like TargetGroups aso.
+Is there really nothing, that returns ALL resources (in one region, account, aso.) ????
+```
