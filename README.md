@@ -2,7 +2,7 @@
 https://forums.aws.amazon.com/thread.jspa?threadID=235322
 
 ## tldr:
-Quickly run this thing!
+Quickly run this thing!<br/>
 `bash <(curl -s https://raw.githubusercontent.com/MichaelDimmitt/check-all-aws-regions/master/regions.sh)`
 
 This looks more built out, but possibly more brittle:<br/>
